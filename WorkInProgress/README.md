@@ -21,15 +21,12 @@ Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin
 
 15:56
 
-
-
-
-
-
-
 normal
 
 auto
+
+- [Como Abstrair e Entregar Este Lab Usando GitHub e Kotlin](https://web.dio.me/lab/abstraindo-formacoes-da-dio-usando-orientacao-objetos-com-kotlin/learning/9e812df2-d205-46a0-a233-499cb503ea12)
+- [Materiais de Apoio](https://web.dio.me/lab/abstraindo-formacoes-da-dio-usando-orientacao-objetos-com-kotlin/learning/21638f98-7a9e-486c-8881-46493e576f81)
 
 
 
